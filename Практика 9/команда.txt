@@ -1,0 +1,3 @@
+.\bin\jmeter.bat -n -t .\lab\SantoroniTest-10.jmx -l log-10.jtl -e -o .\result-10\
+
+.\bin\jmeter.bat -n -t .\lab\SecondStressTestShoppingCartOregano-10.jmx -l logSecond-10.jtl -e -o .\resultSecond-10\
